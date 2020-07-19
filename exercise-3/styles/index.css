@@ -55,6 +55,7 @@ h1 {
     width: 500px;
     height: 800px;
     overflow: scroll;
+    overflow-x: hidden;
 }
 
 h2 {
